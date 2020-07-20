@@ -17,7 +17,9 @@ allOpen {
 
 ## Article
 
-// TODO add link to article
+> Are you sure the LAZY fetch mode is configured correctly in your Kotlin, Hibernate project?
+
+[Read it on Medium](https://link.medium.com/hpa4LTIUg8)
 
 ## Run the test
 
